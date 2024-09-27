@@ -1,0 +1,28 @@
+header { 
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 0, 0);
+    margin: 0;
+    margin-right: auto;
+}
+
+.bouge {
+    margin-left: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+    margin: 10px;
+}
+
+main>a{
+    padding: 20px;
+    border: 1px solid;
+    margin: 100px auto 0 auto;
+    color: black;
+}
+
+.non {
+    margin-left: 15px;
+}
